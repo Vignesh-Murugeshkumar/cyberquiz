@@ -109,7 +109,7 @@ npm start
 
 - **Frontend Application:** http://localhost:3000
 - **Backend API:** http://localhost:5001
-- **Production Deployment:** https://cyberquiz-ck4qglf47-vignesh-murugeshkumars-projects.vercel.app
+- **Production Deployment:** https://cyberquiz-7qyemofgt-vignesh-murugeshkumars-projects.vercel.app
 
 ## 👤 Default Login Credentials
 
@@ -241,8 +241,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🔗 Live Demo
 
-**🌐 Deployment Link:** https://cyberquiz-ck4qglf47-vignesh-murugeshkumars-projects.vercel.app
-
+**🌐 Deployment Link:** https://cyberquiz-7qyemofgt-vignesh-murugeshkumars-projects.vercel.app
 **📧 Contact:** For questions or support, please open an issue in the repository.
 
 ---
